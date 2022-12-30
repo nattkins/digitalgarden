@@ -6,19 +6,6 @@
 
 pretty please
 
-[[Excalidraw/Time Machine\|Time Machine]]
+well what about 
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
-
-# Text Elements
-
-
-</div></div>
-
+[[30370 Time Travel\|30370 Time Travel]]
