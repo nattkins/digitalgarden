@@ -6,4 +6,3 @@
 
 [[Excalidraw/Time Machine\|Time Machine]]
 [[testcircle.excalidraw]]
-![[testcircle.excalidraw]]
