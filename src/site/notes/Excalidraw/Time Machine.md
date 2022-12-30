@@ -50,9 +50,11 @@ PS ^8NAFdzqA
 May 
 Contribute ^wvzjS6vB
 
-Will Contribute ^lClqmz4G
+Should 
+Contribute ^lClqmz4G
 
-Will Contribute ^zD8JRLnO
+    Should
+    Contribute ^zD8JRLnO
 
 How much do need to 
 grow the network to get
