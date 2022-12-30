@@ -5,4 +5,18 @@
 # Home
 
 [[Excalidraw/Time Machine\|Time Machine]]
-![[testcircle.excalidraw]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+
+
+</div></div>
+
