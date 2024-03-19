@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/excalidraw/time-machine/"}
+{"dg-publish":true,"permalink":"/excalidraw/time-machine/","tags":["excalidraw"]}
 ---
 
 
@@ -7,11 +7,17 @@
 
 
 # Text Elements
-we've got news for ^kjRZuiCa
+we've got news for
+{ #kjRZuiCa}
 
-supporters ^DpsQHqDI
 
-experts ^W4dSoiob
+supporters
+{ #DpsQHqDI}
+
+
+experts
+{ #W4dSoiob}
+
 
 'Bad' news
 the case
@@ -19,51 +25,83 @@ the case
 Good News (what we have learned)
 the library
 the network
- ^PIGi8dVv
 
-"time travellers" ^dEhvF5cC
+{ #PIGi8dVv}
+
+
+"time travellers"
+{ #dEhvF5cC}
+
 
 Goal A
 Switch the
  network
-on ^IinNXg3K
+on
+{ #IinNXg3K}
+
 
 Goal C
 Improve  standing
 Make the future
- real ^D4uVcdhz
+ real
+{ #D4uVcdhz}
 
-MPS ^iwTxD49O
+
+MPS
+{ #iwTxD49O}
+
 
 Goal D
 More  Learning / 
-Library ^7WgjaDdL
+Library
+{ #7WgjaDdL}
+
 
 Goal B
 All parliamentary Group
-"the harms of factory farming" ^7n0gF6PW
+"the harms of factory farming"
+{ #7n0gF6PW}
 
- Potential Source ^WPGcQJWI
 
-PS ^8NAFdzqA
+ Potential Source
+{ #WPGcQJWI}
+
+
+PS
+{ #8NAFdzqA}
+
 
 May 
-Contribute ^wvzjS6vB
+Contribute
+{ #wvzjS6vB}
+
 
 Should 
-Contribute ^lClqmz4G
+Contribute
+{ #lClqmz4G}
+
 
     Should
-    Contribute ^zD8JRLnO
+    Contribute
+{ #zD8JRLnO}
+
 
 How much do need to 
 grow the network to get
-Time Travelers? ^2sBcWLce
+Time Travelers?
+{ #2sBcWLce}
+
 
 Goal E
-Another Case ^JKHKL3NC
+Another Case
+{ #JKHKL3NC}
 
-How best to contact MPs to achieve Goal B ^Iq5bUQCf
 
-[[Switch on the network\|switch on the network]] ^ZhexnJCn
+How best to contact MPs to achieve Goal B
+{ #Iq5bUQCf}
+
+
+[[Switch on the network\|switch on the network]]
+{ #ZhexnJCn}
+
 
